@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Omkar Dalvi<br>🎓 BCA Graduate | MCA Student @ SPPU  <br>💻 Python & Data Science Enthusiast<br><br>🔭 Currently working on Data Science & Python projects  <br>👯 Open to collaborating on Python, Data Science & AI/ML projects  <br>🌱 Learning Python, SQL, Data Science, AI/ML & Data Engineering  <br>💬 Ask me about Python, Data Analytics & Data Science  <br>🛠️ Interested in Data-driven applications & AI technologies  <br>📜 AI & Data Science Certified  <br>🎯 Aspiring Data Analyst | Data Scientist | Data Engineer | AI/ML Engineer  <br>⚡ Always learning, building and exploring new technologies 🚀
+👋 Hi, I'm Omkar Dalvi<br>🎓 BCA Graduate | MCA Student @ SPPU  <br>💻 Python & Data Science Enthusiast<br>🔭 Currently working on Data Science & Python projects  <br>👯 Open to collaborating on Python, Data Science & AI/ML projects  <br>🌱 Learning Python, SQL, Data Science, AI/ML & Data Engineering  <br>💬 Ask me about Python, Data Analytics & Data Science  <br>🛠️ Interested in Data-driven applications & AI technologies  <br>📜 AI & Data Science Certified  <br>🎯 Aspiring Data Analyst | Data Scientist | Data Engineer | AI/ML Engineer  <br>⚡ Always learning, building and exploring new technologies 🚀
 
 
 ## 🌐 Socials:
